@@ -1,5 +1,5 @@
 # Modelos Preditivos de Variáveis Econômicas
-Este repositório é para armazenar o TCC do Curso de Especialização em Ciência de Dados e Big Data da PUC-Minas. 
+Este repositório é para armazenar os códigos em linguagem Python utilizados no TCC do Curso de Especialização em Ciência de Dados e Big Data da PUC-Minas. 
 Tema: MODELOS PREDITIVOS DE VARIÁVEIS ECONÔMICAS UTILIZANDO SÉRIES TEMPORAIS
 
 
